@@ -12,9 +12,13 @@ use_math: true
 ## Demo content
 
 Here's an equation:
+
 $$
 \partial \mathbf{u}=0
 $$
+
+Inline $\beta$
+
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
