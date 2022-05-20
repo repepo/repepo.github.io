@@ -11,6 +11,7 @@ use_math: true
 
 ## Demo content
 
+Here's an equation:
 $$
 \partial \mathbf{u}=0
 $$
