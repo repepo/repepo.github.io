@@ -13,12 +13,16 @@ use_math: true
 
 Here's an equation:
 
-$$
-\partial \mathbf{u}=0
-$$
+\\[
+partial \mathbf{u}=0
+\\]
+
+\\( \alpha \\)
+
 
 Inline $\beta$
 
+Block $$\frac{1}{x}$$
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
